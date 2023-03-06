@@ -1,0 +1,89 @@
+/*body{
+    background-image: url(https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdvcmxkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+width: 100%; 
+height: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+background-position: center; 
+
+} */
+
+*{
+    font-family: 'Poppins', sans-serif;
+}
+a {
+    color: red;
+    background-color: blue;
+    font-size: larger;
+    text-decoration: none;
+    
+}
+ h1{
+    font-size: 2rem;
+    background-color: blue;
+    color: azure;
+ }
+ h2 strong{
+     font-size: 3rem;
+     color: aqua;
+ }
+
+img{
+    width: 100px;
+    height: 100px;
+    transition: .5s ease-in-out;
+}
+
+img:hover{
+  width: 200px;
+  height: 200px;
+}
+
+
+
+
+h5{ color: rgb(11, 124, 222);
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid rgb(27, 187, 255); 
+
+
+}
+a :visited{
+    color: azure;
+}
+a :link {
+    color: aqua;
+}
+a:hover{
+    color: aliceblue;
+}
+button{
+    color: blue;
+    background-color: white;
+    width: 200px;
+    padding:30px
+     
+}
+
+button:hover{
+    color: deeppink;
+    background-color: gray;
+}
+button:active{
+    background-color: lightgreen;    
+}
+div{
+ background-image: url(https://images.unsplash.com/photo-1446776653964-20c1d3a81b06?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTJ8fHdvcmxkfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60);
+height: 800px;
+width: 100%;
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+
+}
+
+
+
+
+
